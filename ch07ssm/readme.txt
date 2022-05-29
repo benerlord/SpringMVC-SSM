@@ -24,3 +24,5 @@
     （springmvc课程的47节视频，到此讲完配置文件，接下来开始写代码部分）
 6. 写代码，dao接口和mapper文件，service和实现类，controller，实体类
 7. 写jsp页面
+
+------因为没写代码部分，所以java目录下的domain等文件夹都没法上传到仓库...
