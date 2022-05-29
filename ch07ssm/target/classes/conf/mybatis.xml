@@ -12,7 +12,8 @@
 
     <!--设置别名-->
     <typeAliases>
-        <!--name:实体类所在的包名-->
+        <!--name:实体类所在的包名(不是实体类的包名也可以)-->
+        <!--<typeAlias alias="Student" type="com.bjpowernode.domain.Student" />-->
         <package name="com.bjpowernode.domain"/>
     </typeAliases>
 
